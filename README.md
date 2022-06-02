@@ -1,3 +1,1 @@
-# ptCodingWeek1
-# ptCodingWeek1
-# ptCodingWeek1
+week 1 readme file
